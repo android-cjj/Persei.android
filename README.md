@@ -52,8 +52,8 @@ Yalantis公司出品的开源库，动画这块都做的非常漂亮，不信，
  perseiLayout.closeMenu();//关闭菜单
  ```
  
- 感谢
- ==========================
+ #感谢
+ ===========
  [Yalantis/Persei](https://github.com/Yalantis/Persei)
  
 广告
