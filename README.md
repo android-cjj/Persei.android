@@ -25,5 +25,33 @@ Yalantis公司出品的开源库，动画这块都做的非常漂亮，不信，
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/24/141035ugk917wf899f4gi8.gif)
 
+![](http://www.apkbus.com/data/attachment/forum/201509/24/112741wmju2p3nenjnjg8d.png)
+
+以上只是随意说说，看看就好....呵呵
+
+用法
+----------------------------------------
+在文件xml中添加
+```xml
+<com.cjj.PerseiLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/persei"
+    >
+   <ListView or ScrollView or RecyclerView or GridView ...>
+
+</com.cjj.PerseiLayout>
+```
+
+在代码中实例化并设置头部View
+```java
+ PerseiLayout perseiLayout = (PerseiLayout) this.findViewById(R.id.persei);
+ perseiLayout.setHeaderView(...);
+ ```
+ 
+ 
+
+
 
 
