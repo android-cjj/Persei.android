@@ -48,6 +48,8 @@ Yalantis公司出品的开源库，动画这块都做的非常漂亮，不信，
 ```java
  PerseiLayout perseiLayout = (PerseiLayout) this.findViewById(R.id.persei);
  perseiLayout.setHeaderView(...);
+ 
+ perseiLayout.closeMenu();//关闭菜单
  ```
  
  
