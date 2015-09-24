@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/toolbar_padding_top"
+    android:background="@drawable/toolbar_color"
+    android:minHeight="?attr/actionBarSize"
+    android:gravity="center"
+    app:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+    <TextView
+        android:text="Persei"
+        android:gravity="center"
+        android:textColor="#202020"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    </android.support.v7.widget.Toolbar>
