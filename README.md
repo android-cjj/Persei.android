@@ -21,5 +21,9 @@ Yalantis公司出品的开源库，动画这块都做的非常漂亮，不信，
 
 ![](http://img4.duitang.com/uploads/item/201403/04/20140304122431_XMCuj.thumb.600_0.jpeg)
 
+最后，它就是这个样子的
+
+![](http://www.apkbus.com/data/attachment/forum/201509/24/141035ugk917wf899f4gi8.gif)
+
 
 
