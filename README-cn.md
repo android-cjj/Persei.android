@@ -2,35 +2,35 @@
 ==========================
 
 
- ËµÃ÷
+ Ëµï¿½ï¿½
 ----------------
-Yalantis¹«Ë¾³öÆ·µÄ¿ªÔ´¿â£¬¶¯»­Õâ¿é¶¼×öµÄ·Ç³£Æ¯ÁÁ£¬²»ÐÅ£¬Äã¿ÉÒÔÈ¥¿´¿´[Yalantis](https://github.com/Yalantis),ÎÒ¿´µ½ÁËÆäÖÐµÄÒ»¸ö¿â[Persei](https://github.com/Yalantis/Persei),¿ÉÏ§ÓÃSwiftÐ´µÄ£¬²¢Ã»ÓÐandroidµÄ¡£Äã¿ÉÒÔÈ¥dribbleÍøÕ¾¿´¿´Éè¼ÆÔ­Í¼[Top Menu Animation](https://dribbble.com/shots/1706861-Top-Menu-Animation?list=users&offset=23)
+Yalantisï¿½ï¿½Ë¾ï¿½ï¿½Æ·ï¿½Ä¿ï¿½Ô´ï¿½â£¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é¶¼ï¿½ï¿½ï¿½Ä·Ç³ï¿½Æ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¥ï¿½ï¿½ï¿½ï¿½[Yalantis](https://github.com/Yalantis),ï¿½Ò¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ðµï¿½Ò»ï¿½ï¿½ï¿½ï¿½[Persei](https://github.com/Yalantis/Persei),ï¿½ï¿½Ï§ï¿½ï¿½SwiftÐ´ï¿½Ä£ï¿½ï¿½ï¿½Ã»ï¿½ï¿½androidï¿½Ä¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¥dribbleï¿½ï¿½Õ¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô­Í¼[Top Menu Animation](https://dribbble.com/shots/1706861-Top-Menu-Animation?list=users&offset=23)
 
 ![](https://github.com/Yalantis/Persei/raw/master/Assets/animation.gif)
 
-Ã»´í£¬ÒÔÉÏ¾ÍÊÇÉè¼ÆÍ¼£¬ÏÖÔÚÒª¿ªÊ¼±àÂëÁË...
-ÎÒÃÇÐÄÖÐÐèÒªµÃµ½µÄÊÇÕâ¸ö½á¹û
+Ã»ï¿½?ï¿½ï¿½ï¿½Ï¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½...
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½Ãµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 ![](http://img.55bbs.com/10_500x2000/974/li5c2kC78GdkQ.jpg)
 
-ÊÂÊµÊÇÎÒÔ½Ð´Ô½³ÉÁËÕâ¸ö
+ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½Ô½Ð´Ô½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 ![](http://www.ename.cn/data/article/201412/03/1417588595.jpg)
 
-±¾À´Ïë·ÅÆúÁË£¬ºóÀ´ÏëÏë£¬¼ÈÈ»×ö²»µ½Ô­Éè¼ÆÍ¼µÄÐ§¹û£¬ÖÁÉÙÒ²ÒªÈÃËü±ä³ÉÕâÑùµÄ
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë£¬ï¿½ï¿½È»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô­ï¿½ï¿½ï¿½Í¼ï¿½ï¿½Ð§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò²Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 ![](http://img4.duitang.com/uploads/item/201403/04/20140304122431_XMCuj.thumb.600_0.jpeg)
 
-×îºó£¬Ëü¾ÍÊÇÕâ¸öÑù×ÓµÄ
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Óµï¿½
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/25/144242qv69abhu6n9vav66.gif)
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/24/141035ugk917wf899f4gi8.gif)
 
 
-ÒÔÉÏÖ»ÊÇËæÒâËµËµ£¬¿´¿´¾ÍºÃ....ºÇºÇ
+ï¿½ï¿½ï¿½ï¿½Ö»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËµËµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íºï¿½....ï¿½Çºï¿½
 
-ÓÃ·¨
+ï¿½Ã·ï¿½
 ----------------------------------------
 Add dependency.
 
@@ -41,7 +41,7 @@ dependencies {
 ```
 
 
-ÔÚÎÄ¼þxmlÖÐÌí¼Ó
+ï¿½ï¿½ï¿½Ä¼ï¿½xmlï¿½ï¿½ï¿½ï¿½ï¿½
 ```xml
 <com.cjj.PerseiLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -56,12 +56,12 @@ dependencies {
 </com.cjj.PerseiLayout>
 ```
 
-ÔÚ´úÂëÖÐÊµÀý»¯²¢ÉèÖÃÍ·²¿View
+ï¿½Ú´ï¿½ï¿½ï¿½ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í·ï¿½ï¿½View
 ```java
  PerseiLayout perseiLayout = (PerseiLayout) this.findViewById(R.id.persei);
  perseiLayout.setHeaderView(...);
  
- perseiLayout.closeMenu();//¹Ø±Õ²Ëµ¥
+ perseiLayout.closeMenu();//ï¿½Ø±Õ²Ëµï¿½
  ```
  
  
@@ -69,9 +69,9 @@ Thanks
 =======
  [Yalantis/Persei](https://github.com/Yalantis/Persei)
  
-¹ã¸æ
+ï¿½ï¿½ï¿½
 -----------------------------
-¸Õ½¨ÁË¸ö[githubÐ¡»ï°é½»Á÷Èº](http://t.cn/RyiVjnv)(477826523),ÓÐÐËÈ¤µÄÅóÓÑ¿ÉÒÔ¼Ó½øÀ´µÄ...Ð¡Ð¡ÒªÇó£ºgithubÓÐÖÁÉÙ7¸ö¹Ø×¢Õß»òÕß¿ªÔ´¿âÓÐ7¿ÅÐÇÐÇµÄ... 
+ï¿½Õ½ï¿½ï¿½Ë¸ï¿½[githubÐ¡ï¿½ï¿½é½»ï¿½ï¿½Èº](http://t.cn/RyiVjnv)(477826523),ï¿½ï¿½ï¿½ï¿½È¤ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¿ï¿½ï¿½Ô¼Ó½ï¿½ï¿½ï¿½ï¿½ï¿½...Ð¡Ð¡Òªï¿½ï¿½githubï¿½ï¿½ï¿½ï¿½ï¿½ï¿½7ï¿½ï¿½ï¿½ï¿½×¢ï¿½ß»ï¿½ï¿½ß¿ï¿½Ô´ï¿½ï¿½ï¿½ï¿½7ï¿½ï¿½ï¿½ï¿½ï¿½Çµï¿½... 
 
  
 License
@@ -95,7 +95,7 @@ License
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	LIABILITY,WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 
