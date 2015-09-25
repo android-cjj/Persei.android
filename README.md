@@ -31,6 +31,13 @@ Yalantis公司出品的开源库，动画这块都做的非常漂亮，不信，
 
 用法
 ----------------------------------------
+Add dependency.
+
+```
+dependencies {
+  compile 'com.cjj.persei:library:1.0.0'
+}
+
 在文件xml中添加
 ```xml
 <com.cjj.PerseiLayout
