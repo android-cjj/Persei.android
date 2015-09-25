@@ -23,9 +23,9 @@ Yalantis公司出品的开源库，动画这块都做的非常漂亮，不信，
 
 最后，它就是这个样子的
 
+![](http://www.apkbus.com/data/attachment/forum/201509/25/144242qv69abhu6n9vav66.gif)
 ![](http://www.apkbus.com/data/attachment/forum/201509/24/141035ugk917wf899f4gi8.gif)
 
-![](http://www.apkbus.com/data/attachment/forum/201509/24/112741wmju2p3nenjnjg8d.png)
 
 以上只是随意说说，看看就好....呵呵
 
@@ -37,6 +37,8 @@ Add dependency.
 dependencies {
   compile 'com.cjj.persei:library:1.0.0'
 }
+```
+
 
 在文件xml中添加
 ```xml
