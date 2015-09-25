@@ -1,6 +1,7 @@
 package com.cjj;
 
 import android.content.Context;
+import android.content.res.TypedArray;
 import android.graphics.Color;
 import android.os.Build;
 import android.support.v4.view.ViewCompat;
@@ -59,6 +60,9 @@ public class PerseiLayout extends FrameLayout {
         if (getChildCount() > 1) {
             throw new RuntimeException("can only have one child widget");
         }
+        TypedArray t = context.obtainStyledAttributes(attrs,R.styleable.PerseiLayout,defStyleAttr,0);
+        mHeadHeight = t.getInteger(R.styleable.PerseiLayout_menu_height, Util.dip2px(getContext(),DEFAULT_HEIGHT));
+        t.recycle();
     }
 
     @Override
@@ -75,9 +79,6 @@ public class PerseiLayout extends FrameLayout {
         this.addView(mHeadLayout);
 
         mChildView = getChildAt(0);
-
-        mHeadHeight = Util.dip2px(getContext(),DEFAULT_HEIGHT);
-
     }
     @Override
     public boolean onInterceptTouchEvent(MotionEvent ev) {
