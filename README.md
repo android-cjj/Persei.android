@@ -1,6 +1,8 @@
 #Persei
 ==========================
+
 [中文版文档](https://github.com/android-cjj/Persei.android/blob/master/README-cn.md)
+---------------
 
 As we know,Yalantis company wrote some excellent open source libraries, especially of the animation is very beautiful.If you don't believe,you can go and see [Yalantis](https://github.com/Yalantis).I saw one of them called  [Persei](https://github.com/Yalantis/Persei) library ,it's a pity that written in Swift，is not written in Java.also you can go to dribble website and see the design picture.
 
