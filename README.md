@@ -1,38 +1,40 @@
 #Persei
 ==========================
 
-
- 说明
-----------------
 As we know,Yalantis company wrote some excellent open source libraries, especially of the animation is very beautiful.If you don't believe,you can go and see [Yalantis](https://github.com/Yalantis).I saw one of them called  [Persei](https://github.com/Yalantis/Persei) library ,it's a pity that written in Swift，is not written in Java.also you can go to dribble website and see the design picture.
 
 [Top Menu Animation](https://dribbble.com/shots/1706861-Top-Menu-Animation?list=users&offset=23)
 
 ![](https://github.com/Yalantis/Persei/raw/master/Assets/animation.gif)
 
-没错，以上就是设计图，现在要开始编码了...
-我们心中需要得到的是这个结果
+Yes, that is design, now need to start coding...
+
+We need to get the effect of the picture below
 
 ![](http://img.55bbs.com/10_500x2000/974/li5c2kC78GdkQ.jpg)
 
-事实是我越写越成了这个
+But, I made into the effect of the picture below
 
 ![](http://www.ename.cn/data/article/201412/03/1417588595.jpg)
 
-本来想放弃了，后来想想，既然做不到原设计图的效果，至少也要让它变成这样的
+I want to give up，because I can't do the same design.Think about it，Can I go to the coding according to my style,the effect of the picture below
 
 ![](http://img4.duitang.com/uploads/item/201403/04/20140304122431_XMCuj.thumb.600_0.jpeg)
 
-最后，它就是这个样子的
+Just a joke,don't be too care about it;
 
+The Android implementation of Persei
+-------------------------------------------------------
+How it looks
+--------------------------------
 ![](http://www.apkbus.com/data/attachment/forum/201509/25/144242qv69abhu6n9vav66.gif)
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/24/141035ugk917wf899f4gi8.gif)
 
 
-以上只是随意说说，看看就好....呵呵
 
-用法
+
+How to use
 ----------------------------------------
 Add dependency.
 
@@ -43,7 +45,7 @@ dependencies {
 ```
 
 
-在文件xml中添加
+in layout.xml
 ```xml
 <com.cjj.PerseiLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -58,12 +60,12 @@ dependencies {
 </com.cjj.PerseiLayout>
 ```
 
-在代码中实例化并设置头部View
+in java code,get instance and set header view
 ```java
  PerseiLayout perseiLayout = (PerseiLayout) this.findViewById(R.id.persei);
  perseiLayout.setHeaderView(...);
  
- perseiLayout.closeMenu();//关闭菜单
+ perseiLayout.closeMenu();//close menu
  ```
  
  
@@ -71,10 +73,6 @@ Thanks
 =======
  [Yalantis/Persei](https://github.com/Yalantis/Persei)
  
-广告
------------------------------
-刚建了个[github小伙伴交流群](http://t.cn/RyiVjnv)(477826523),有兴趣的朋友可以加进来的...小小要求：github有至少7个关注者或者开源库有7颗星星的... 
-
  
 License
 =======
