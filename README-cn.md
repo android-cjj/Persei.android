@@ -1,36 +1,34 @@
 #Persei
 ==========================
 
+说明
+ ----------------
+Yalantis公司出品的开源库，动画这块做的非常漂亮，如果你不信的话，可以去瞧瞧[Yalantis](https://github.com/Yalantis)，我在其中看到了一个名为[Persei](https://github.com/Yalantis/Persei)的开源库，用Swift写的，查了下，竟然没有android的版本的，呵呵然后就想写写了，毕竟看起来很炫酷...
 
- ˵��
-----------------
-Yalantis��˾��Ʒ�Ŀ�Դ�⣬������鶼���ķǳ�Ư�������ţ������ȥ����[Yalantis](https://github.com/Yalantis),�ҿ��������е�һ����[Persei](https://github.com/Yalantis/Persei),��ϧ��Swiftд�ģ���û��android�ġ������ȥdribble��վ�������ԭͼ[Top Menu Animation](https://dribbble.com/shots/1706861-Top-Menu-Animation?list=users&offset=23)
+你也可以去dribble网站看看原设计图：
+[Top Menu Animation](https://dribbble.com/shots/1706861-Top-Menu-Animation?list=users&offset=23)
 
 ![](https://github.com/Yalantis/Persei/raw/master/Assets/animation.gif)
 
-û�?���Ͼ������ͼ������Ҫ��ʼ������...
-����������Ҫ�õ�����������
+我们心中需要的是如下图的结果
 
 ![](http://img.55bbs.com/10_500x2000/974/li5c2kC78GdkQ.jpg)
 
-��ʵ����ԽдԽ�������
-
+但是，我越做越成了。。。看下图把T_T
 ![](http://www.ename.cn/data/article/201412/03/1417588595.jpg)
 
-����������ˣ��������룬��Ȼ������ԭ���ͼ��Ч������ҲҪ�����������
-
+本来觉得和设计图不一样，要不就废弃了，想想，改改，至少也要改成下面这样子的
 ![](http://img4.duitang.com/uploads/item/201403/04/20140304122431_XMCuj.thumb.600_0.jpeg)
 
-��������������ӵ�
+最后效果是这样的：
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/25/144242qv69abhu6n9vav66.gif)
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/24/141035ugk917wf899f4gi8.gif)
 
+以上只是开个玩笑，切勿当真...
 
-����ֻ������˵˵�������ͺ�....�Ǻ�
-
-�÷�
+用法
 ----------------------------------------
 Add dependency.
 
@@ -40,8 +38,7 @@ dependencies {
 }
 ```
 
-
-���ļ�xml�����
+在xml文件中添加
 ```xml
 <com.cjj.PerseiLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -55,13 +52,12 @@ dependencies {
 
 </com.cjj.PerseiLayout>
 ```
-
-�ڴ�����ʵ������ͷ��View
+实例化它并设置头部View
 ```java
  PerseiLayout perseiLayout = (PerseiLayout) this.findViewById(R.id.persei);
  perseiLayout.setHeaderView(...);
  
- perseiLayout.closeMenu();//�رղ˵�
+ perseiLayout.closeMenu();//关闭菜单
  ```
  
  
@@ -69,10 +65,9 @@ Thanks
 =======
  [Yalantis/Persei](https://github.com/Yalantis/Persei)
  
-���
+我们聊聊天，喝喝白开水
 -----------------------------
-�ս��˸�[githubС��齻��Ⱥ](http://t.cn/RyiVjnv)(477826523),����Ȥ�����ѿ��Լӽ�����...ССҪ��github������7����ע�߻��߿�Դ����7�����ǵ�... 
-
+刚建了个[github小伙伴交流群](http://t.cn/RyiVjnv)(477826523),有兴趣的朋友可以加进来的...小小要求：github有至少7个关注者或者开源库有7颗星星的...
  
 License
 =======
