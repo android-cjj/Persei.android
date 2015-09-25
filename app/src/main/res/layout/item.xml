@@ -27,8 +27,8 @@
         android:background="#ff33334c"
         android:id="@+id/avatar"
         android:scaleType="centerCrop"
-        android:layout_width="80dp"
-        android:padding="20dp"
-        android:layout_height="80dp"
+        android:layout_width="70dp"
+        android:padding="10dp"
+        android:layout_height="70dp"
         />
 </android.support.v7.widget.CardView>

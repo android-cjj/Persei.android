@@ -24,7 +24,7 @@ public class PerseiLayout extends FrameLayout {
 
     protected FrameLayout mHeadLayout;
 
-    protected int DEFAULT_HEIGHT = 120;
+    protected int DEFAULT_HEIGHT = 100;
 
     protected float mHeadHeight;
 
@@ -70,11 +70,9 @@ public class PerseiLayout extends FrameLayout {
         FrameLayout headViewLayout = new FrameLayout(context);
         LayoutParams layoutParams = new LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, 0);
         layoutParams.gravity = Gravity.TOP;
-        headViewLayout.setBackgroundColor(Color.rgb(51,51,76));
         headViewLayout.setLayoutParams(layoutParams);
         mHeadLayout = headViewLayout;
         this.addView(mHeadLayout);
-
 
         mChildView = getChildAt(0);
 
@@ -93,9 +91,6 @@ public class PerseiLayout extends FrameLayout {
                 float currentY = ev.getY();
                 float dy = currentY - mTouchY;
                 if (dy > 0 && !canChildScrollUp()) {
-                    /**
-                     * 开始拉
-                     */
                     return true;
                 }
                 break;
@@ -188,12 +183,12 @@ public class PerseiLayout extends FrameLayout {
        this.postDelayed(new Runnable() {
            @Override
            public void run() {
-               finishRefreshing();
+               closeMenuing();
            }
        },200);
     }
 
-    private void finishRefreshing() {
+    private void closeMenuing() {
         if (mChildView != null) {
             ViewPropertyAnimatorCompat viewPropertyAnimatorCompat = ViewCompat.animate(mChildView);
             viewPropertyAnimatorCompat.setDuration(200);
