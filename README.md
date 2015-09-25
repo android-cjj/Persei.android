@@ -1,6 +1,5 @@
 #Persei
 ==========================
-
 [中文版文档](https://github.com/android-cjj/Persei.android/blob/master/README-cn.md)
 ---------------
 
