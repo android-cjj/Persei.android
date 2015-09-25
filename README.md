@@ -24,6 +24,7 @@ Yalantis公司出品的开源库，动画这块都做的非常漂亮，不信，
 最后，它就是这个样子的
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/25/144242qv69abhu6n9vav66.gif)
+
 ![](http://www.apkbus.com/data/attachment/forum/201509/24/141035ugk917wf899f4gi8.gif)
 
 
@@ -44,9 +45,11 @@ dependencies {
 ```xml
 <com.cjj.PerseiLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/persei"
+    app:menu_height="200"
     >
    <ListView or ScrollView or RecyclerView or GridView ...>
 
