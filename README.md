@@ -75,6 +75,11 @@ Thanks
 =======
  [Yalantis/Persei](https://github.com/Yalantis/Persei)
  
+ AT LAST
+==============================================================
+If you want to support me,you can follow me on GitHub:
+[https://github.com/android-cjj](https://github.com/android-cjj).
+ 
  
 License
 =======
